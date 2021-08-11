@@ -9,7 +9,7 @@ Ini adalah Software Email Sender, digunakan untuk mengirim email dengan mudah!
 Software ini OpenSource!
 
 ### Demo
-![alt text](https://feboyfierlyan.000webhostapp.com/emailsender.png){:height="50%" width="50%"}
+![GUI dari Email Sender](https://feboyfierlyan.000webhostapp.com/emailsender.png)
 
 Ini adalah GUI dari Email Sender
 Made using python3
