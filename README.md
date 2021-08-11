@@ -8,8 +8,10 @@
 Ini adalah Software Email Sender, digunakan untuk mengirim email dengan mudah!
 Software ini OpenSource!
 
-Software ini dibuat dengan :
-Python3
+### Demo
+![alt text](https://feboyfierlyan.000webhostapp.com/emailsender.png)
+
+Made using python3
 
 ## Legal disclaimer:
 Usage of Tools for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
