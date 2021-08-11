@@ -1,8 +1,8 @@
 # EmailSender
 
 ### Author: github.com/feboyfierlyan
-### instagram: instagram.com/feboyfierlyan404
-### github: Github.com/feboyfierlyan
+### Instagram: instagram.com/feboyfierlyan404
+### Github: Github.com/feboyfierlyan
 
 Ini adalah Software Email Sender, digunakan untuk mengirim email dengan mudah!
 Software ini OpenSource!
