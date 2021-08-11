@@ -126,7 +126,7 @@ class App(ttk.Frame):
 			mailserver.ehlo()
 			mailserver.starttls()
 			mailserver.ehlo()
-			mailserver.login('feboydanbobby', '60273kap423sby')
+			mailserver.login('feboydanbobby', '')
 
 			mailserver.sendmail('feboydanbobby@gmail.com','feboyfierlyan10@gmail.com', msg)
 
