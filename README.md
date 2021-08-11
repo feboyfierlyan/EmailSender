@@ -28,6 +28,6 @@ execute EmailSender.exe
 
 ### Requirements ( ) :
 ```
-Windows OS
+Windows 10 OS
 
 ```
