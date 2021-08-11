@@ -3,7 +3,7 @@
 
 ### Author: github.com/feboyfierlyan
 ### instagram: instagram.com/feboyfierlyan404
-### github: github.com/feboyfierlyan/
+### github: Github.com/feboyfierlyan
 
 Ini adalah Software Email Sender, digunakan untuk mengirim email dengan mudah!
 Software ini OpenSource!
@@ -22,7 +22,9 @@ Usage of Tools for attacking targets without prior mutual consent is illegal. It
 ```
 download di releases
 extract
-execute
+buka folder dist
+buka folder EmailSender
+execute EmailSender.exe
 ```
 
 ### Requirements ( ) :
