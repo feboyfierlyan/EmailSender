@@ -1,5 +1,5 @@
 # EmailSender
-##Email Sender for Windows
+###Email Sender for Windows
 
 ### Author: github.com/feboyfierlyan
 ### instagram: instagram.com/feboyfierlyan404
@@ -9,7 +9,7 @@ Ini adalah Software Email Sender, digunakan untuk mengirim email dengan mudah!
 Software ini OpenSource!
 
 ### Demo
-![alt text](https://feboyfierlyan.000webhostapp.com/emailsender.png)
+![alt text](https://feboyfierlyan.000webhostapp.com/emailsender.png) Ini adalah GUI dari Email Sender
 
 Made using python3
 
