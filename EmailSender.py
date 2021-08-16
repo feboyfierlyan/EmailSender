@@ -128,7 +128,7 @@ class App(ttk.Frame):
 			mailserver.ehlo()
 			mailserver.login(emailpengirim.get(), passwordemail.get())
 
-			mailserver.sendmail((emailpengirim.get(), emailpenerima.get(), msg)
+			mailserver.sendmail(emailpengirim.get(), emailpenerima.get(), msg)
 
 			mailserver.quit()
 			print("[INFO] Done!")
